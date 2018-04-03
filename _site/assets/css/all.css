@@ -713,7 +713,7 @@ footer {
     border-radius: 50%;
     background-size: cover;
     background-position: center;
-    background-image: url(../img/face.jpg);
+    background-image: url(../img/face_mini.jpg);
     height: 200px;
     width: 200px;
     -webkit-box-ordinal-group: 3;
@@ -1152,7 +1152,7 @@ footer {
   text-align: center; }
 
 .social-links {
-  max-width: 700px;
+  max-width: 300px;
   margin: 0px auto 50px;
   display: -webkit-box;
   display: -moz-box;
@@ -1196,7 +1196,7 @@ footer {
       right: 0px;
       bottom: 0px;
       left: 0px;
-      border: 2px solid #c99065;
+      border: 3px solid #c99065;
       border-radius: 50%;
       margin: -2px;
       opacity: 1;
@@ -1212,9 +1212,9 @@ footer {
       opacity: 0; }
 
 .bar {
-  width: 250px;
+  width: 200px;
   height: 0px;
-  border-top: 4px solid #c99065;
+  border-top: 3px solid #c99065;
   margin: 0px auto 50px; }
 
 .biglink {
