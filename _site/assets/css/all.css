@@ -603,15 +603,13 @@ h3, header nav a, header .kicker, footer .lockup .content-wrap a {
   font-weight: 700;
   text-transform: uppercase; }
 
-header, footer {
-  background-repeat: no-repeat, no-repeat;
-  background-size: 50px 50px, cover;
-  background-position: 30px 50px, 50% 50%;
-  background-blend-mode: overlay, normal; }
-
 header {
   background-position: 30px 20px, 50% 50%;
   background-image: url(../img/logo.svg), url(../img/hero-bg.jpg);
+  background-repeat: no-repeat, no-repeat;
+  background-size: 75px 75px, cover;
+  background-position: 30px 20px, 50% 50%;
+  background-blend-mode: overlay, normal;
   padding-bottom: 50px; }
   header .logo {
     height: 150px;
@@ -659,9 +657,13 @@ header {
     header h1 {
       padding-top: 0px; } }
 footer {
-  background-image: url(../img/logo.svg), url(../img/hero-bg.jpg); }
+  background-image: url(../img/logo.svg), url(../img/hero-bg.jpg);
+  background-repeat: no-repeat, no-repeat;
+  background-size: 75px 75px, cover;
+  background-position: 20px 40px, 50% 50%;
+  background-blend-mode: overlay, normal; }
   footer .lockup {
-    padding: 50px 30px; }
+    padding: 60px 50px; }
     footer .lockup:after {
       content: "";
       display: table;

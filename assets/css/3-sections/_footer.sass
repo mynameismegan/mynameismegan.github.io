@@ -1,9 +1,13 @@
 footer
-  @extend %background-image
   background-image: url(../img/#{$logo-path}), url(../img/#{$hero-path})
+  background:
+    repeat: no-repeat, no-repeat
+    size: 75px 75px, cover
+    position: 20px 40px, 50% 50%
+    blend-mode: overlay, normal
 
   .lockup
-    padding: 50px 30px
+    padding: 60px 50px
     +clearfix
 
     .content-wrap
