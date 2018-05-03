@@ -11,6 +11,7 @@ avatar: "face_mini.jpg"
 # Colors
 
 accent: "#c99065"
+work_accent: "#1dcad3"
 
 textColor: "#666"
 headlineColor: "#333"
