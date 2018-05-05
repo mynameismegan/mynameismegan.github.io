@@ -52,8 +52,8 @@ skills:
 - {name: Teaching, value: '8'}
 - {name: Planning, value: '7'}
 - {name: Visual Design, value: '9'}
-- {name: Teamwork, value: '10'}
-- {name: Leadership, value: '7'}
+# - {name: Teamwork, value: '10'}
+# - {name: Leadership, value: '7'}
 
 #-------------------------------
 # Work Section
@@ -75,11 +75,17 @@ projects:
 # Clients Section
 
 clients:
-- {avatar: 'face-aaroni.jpg',
-  name: 'Scott Summers',
-  title: 'Director of Design, OnToText Ind.',
-  quote: '<p><strong>While we all felt that Travis was a great</strong> asset to our team — and really worked hard to understand our products from the point of view of the customer — we also all agree he should shower more often.</p>',
-  logo: 'logo1.png'}
+- {avatar: 'face-marcink.jpg',
+  name: 'Mykolas Marcinkevicius',
+  title: 'Founder, Mico Angelo Co.',
+  quote: '<p><strong>Melissa is a very talented designer</strong>
+          I am genuinely impressed at the world-class design she produced 
+          for our company. Her professional and collaborative style ensures
+           that that everyone is on the same page throughout the entire process. 
+           Whatever it is, she has it. Not to mention, she’s upbeat, helpful, and creative.
+            I have worked with several designers who were good, but I would work with Melissa again over them in a heartbeat.
+         </p>',
+  logo: 'mico-logo.png'}
 
 
 
