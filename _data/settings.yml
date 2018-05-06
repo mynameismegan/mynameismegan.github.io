@@ -2,7 +2,7 @@
 # General Site Settings
 
 title: Melissa Egan
-description: Graphic Designer
+description: //Graphic Designer//
 email: egan@ualberta.ca
 
 # NOTE: The Logo and Background image are defined in the all.sass document.
@@ -46,10 +46,10 @@ blurb: >
 
 
 skills:
-- {name: Communication, value: '10'}
-- {name: Organization, value: '7'}
+- {name: Communication, value: '8'}
+- {name: Organization, value: '8'}
 - {name: Learning, value: '10'}
-- {name: Teaching, value: '8'}
+- {name: Teamwork, value: '10'}
 - {name: Planning, value: '7'}
 - {name: Visual Design, value: '9'}
 # - {name: Teamwork, value: '10'}
@@ -65,8 +65,8 @@ projects:
 - {name: Schwifty Car, folder: 'proj-4', file: 'work/proj-4.html'}
 - {name: Fight Club Refresh, folder: 'proj-5', file: 'work/proj-5.html'}
 - {name: Bottlerock Festival, folder: 'proj-6', file: 'work/proj-6.html'}
-- {name: Polisi Snowboarding Co., folder: 'proj-7', file: 'work/proj-7.html'}
-- {name: Alt D Magazine, folder: 'proj-8', file: 'work/proj-8.html'}
+- {name: Alt D Magazine, folder: 'proj-7', file: 'work/proj-7.html'}
+- {name: Polisi Snowboarding Co., folder: 'proj-8', file: 'work/proj-8.html'}
 
 
 
