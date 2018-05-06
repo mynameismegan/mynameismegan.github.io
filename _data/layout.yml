@@ -10,8 +10,8 @@ avatar: "face_mini.jpg"
 
 # Colors
 
-accent: "#c99065"
-work_accent: "#1dcad3"
+# accent: "#c99065" #ORIGINAL BROWN/GOLD
+accent: "#66c8c5"
 
 textColor: "#666"
 headlineColor: "#333"

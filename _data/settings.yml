@@ -93,9 +93,8 @@ clients:
 # Contact Section
 
 social:
-- {icon: 'twitter', link: 'https://twitter.com/melegan6'}
 - {icon: 'behance', link: 'https://www.behance.net/eganbf99'}
 - {icon: 'linkedin', link: 'https://www.linkedin.com/in/melissa-egan-4593b24b/'}
-
+- {icon: 'instagram', link: 'https://www.instagram.com/m_egan123/'}
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
