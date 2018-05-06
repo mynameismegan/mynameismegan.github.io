@@ -1,5 +1,4 @@
 ---
-title: Mrs. Fields & Bansky Mashup
 ---
 
 ![Mrs. Fields & Bansky Mashup](/assets/img/work/proj-1/img1.jpg)
