@@ -10,8 +10,8 @@ avatar: "face.jpg"
 
 # Colors
 
-accent: "#c99065" #ORIGINAL BROWN/GOLD
-# accent: "#66c8c5"
+# accent: "#c99065" #ORIGINAL BROWN/GOLD
+accent: "#66c8c5"
 
 textColor: "#666"
 headlineColor: "#333"
