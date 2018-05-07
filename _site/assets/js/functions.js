@@ -44,23 +44,40 @@ function workBelt() {
 }
 
 
+// function  workLoad() {
+
+//   $.ajaxSetup({ cache: true });
+
+//   $('.thumb-container label').click(function() {
+//     var $this = $(this),
+//         newTitle = $this.find('strong').text(),
+//         spinner = '<div class="loader">Loading...</div>',
+//         url = $this.find('.thumb-unit').data('url');
+
+//     $('.project-load').html(spinner).load(url);
+//     $('.project-title').text(newTitle);
+//   });
+
+// }
+
+
 function  workLoad() {
 
-  $.ajaxSetup({ cache: true });
-
-  $('.thumb-container label').click(function() {
-    var $this = $(this),
-        newTitle = $this.find('strong').text(),
-        spinner = '<div class="loader">Loading...</div>',
-        url = $this.find('.thumb-unit').data('url');
-
-    $('.project-load').html(spinner).load(url);
-    $('.project-title').text(newTitle);
-  });
-
-}
-
-
+	$.ajaxSetup({ cache: true });
+  
+	$('.thumb-container label').click(function() {
+	  var $this = $(this),
+		  newTitle = $this.find('strong').text(),
+		  newfolder = $this.data('folder'),
+		  spinner = '<div class="loader">Loading...</div>',
+		  url = $this.find('.thumb-unit').data('url');
+		  newHTML = '/work/'+ newfolder +'.html';
+	  $('.project-load').html(spinner).load(newHTML);
+	  $('.project-title').text(newTitle);
+	});
+  }
+  
+  
 
 
 function clientStuff() {
