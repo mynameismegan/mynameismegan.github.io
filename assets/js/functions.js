@@ -60,26 +60,6 @@ function  workLoad() {
 
 }
 
-
-// function  workLoad() {
-
-// 	$.ajaxSetup({ cache: true });
-  
-// 	$('.thumb-container label').click(function() {
-// 	  var $this = $(this),
-// 		  newTitle = $this.find('strong').text(),
-// 		  newfolder = $this.data('folder'),
-// 		  spinner = '<div class="loader">Loading...</div>',
-// 		  url = $this.find('.thumb-unit').data('url');
-// 		  newHTML = '/work/'+ newfolder +'.html';
-// 	  $('.project-load').html(spinner).load(newHTML);
-// 	  $('.project-title').text(newTitle);
-// 	});
-//   }
-  
-  
-
-
 function clientStuff() {
 
   $('.client-logo, .client-button').click(function() {
