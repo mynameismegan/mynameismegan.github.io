@@ -144,21 +144,21 @@ td, th {
   padding: 0; }
 
 @font-face {
-  font-family: 'Open Sans';
+  font-family: 'Montserrat';
   font-style: normal;
   font-weight: 300;
-  src: local("Open Sans Light"), local("OpenSans-Light"), url(//themes.googleusercontent.com/static/fonts/opensans/v8/DXI1ORHCpsQm3Vp6mXoaTaRDOzjiPcYnFooOUGCOsRk.woff) format("woff"); }
+  src: local("Montserrat Light"), local("Montserrat-Light"), url(//fonts.googleapis.com/css?family=Montserrat) format("ttf"); }
 @font-face {
-  font-family: 'Open Sans';
+  font-family: 'Montserrat';
   font-style: normal;
   font-weight: 400;
-  src: local("Open Sans"), local("OpenSans"), url(//themes.googleusercontent.com/static/fonts/opensans/v8/cJZKeOuBrn4kERxqtaUH3bO3LdcAZYWl9Si6vvxL-qU.woff) format("woff"); }
+  src: local("Montserrat"), local("Montserrat-Regular"), url(//fonts.googleapis.com/css?family=Montserrat) format("ttf"); }
 @font-face {
-  font-family: 'Open Sans';
+  font-family: 'Montserrat';
   font-style: normal;
   font-weight: 700;
-  src: local("Open Sans Bold"), local("OpenSans-Bold"), url(//themes.googleusercontent.com/static/fonts/opensans/v8/k3k702ZOKiLJc3WVjuplzKRDOzjiPcYnFooOUGCOsRk.woff) format("woff"); }
-/* 
+  src: local("Montserrat Semibold"), local("Montserrat-Semibold"), url(//fonts.googleapis.com/css?family=Montserrat) format("ttf"); }
+/*
   Animation: bounceOut
   Source: Bounce.Js */
 .thumb-container label .thumb-overlay {
@@ -373,7 +373,7 @@ td, th {
     -webkit-transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1);
     transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1); } }
 /* Animation: fadeIn
- * Source: Dylan Spicker 
+ * Source: Dylan Spicker
  * Rewrite: niklasravnsborg */
 /* Animation: bottomUp
  * Source: Travis Nielson */
@@ -570,7 +570,7 @@ body {
   background: #fff;
   font-size: 14px;
   line-height: 1.6;
-  font-family: "Open Sans", sans-serif;
+  font-family: "Montserrat", sans-serif;
   color: #666;
   -webkit-font-smoothing: antialiased;
   -webkit-text-size-adjust: 100%; }
@@ -582,7 +582,8 @@ svg {
 h3 {
   color: #86cee0;
   text-align: center;
-  padding: 100px 0 30px; }
+  padding: 100px 0 30px;
+  font-weight: 600;}
 
 fieldset {
   padding: 0;
@@ -599,7 +600,7 @@ section:nth-child(odd) {
     color: #5dbed6; }
 
 h3, header nav a, header .kicker, footer .lockup .content-wrap a {
-  font-size: 14px;
+  font-size: 16px;
   font-weight: 700;
   text-transform: uppercase; }
 
@@ -709,15 +710,15 @@ footer {
   -moz-justify-content: space-between;
   -ms-justify-content: space-between;
   -o-justify-content: space-between;
-  justify-content: space-between;
+  justify-content: center;
   -ms-flex-pack: justify; }
   .face-lockup .face-img {
     border-radius: 50%;
     background-size: cover;
     background-position: center;
     background-image: url(../img/face.jpg);
-    height: 200px;
-    width: 200px;
+    height: 300px;
+    width: 300px;
     -webkit-box-ordinal-group: 3;
     -moz-box-ordinal-group: 3;
     box-ordinal-group: 3;
@@ -782,7 +783,7 @@ footer {
   max-width: 620px;
   padding: 0 20px;
   margin: 50px auto;
-  font-size: 24px;
+  font-size: 21px;
   text-align: center;
   font-weight: 300; }
 
@@ -1064,7 +1065,8 @@ footer {
     opacity: 0.5; }
     .clients-logos .client-logo.active-client {
       opacity: 1;
-      border-bottom: 4px solid #66c8c5; }
+      /* border-bottom: 4px solid #66c8c5;  */
+    }
 
 .client-quote-mark {
   position: absolute;
@@ -1077,7 +1079,7 @@ footer {
   .client-quote-mark path {
     fill: #66c8c5; }
 
-.client-controls {
+/* .client-controls {
   position: absolute;
   top: 0px;
   right: 0px;
@@ -1098,7 +1100,7 @@ footer {
   .client-controls .client-control-prev {
     position: absolute;
     top: 50%;
-    left: 10px; }
+    left: 10px; } */
 
 .clients-mobile-nav {
   text-align: center;
