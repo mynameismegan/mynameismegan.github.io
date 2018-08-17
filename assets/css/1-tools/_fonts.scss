@@ -1,18 +1,40 @@
+
+//ORIGINAL
+// @font-face {
+//   font-family: 'Open Sans';
+//   font-style: normal;
+//   font-weight: 300;
+//   src: local('Open Sans Light'), local('OpenSans-Light'), url(//themes.googleusercontent.com/static/fonts/opensans/v8/DXI1ORHCpsQm3Vp6mXoaTaRDOzjiPcYnFooOUGCOsRk.woff) format('woff');
+// }
+// @font-face {
+//   font-family: 'Open Sans';
+//   font-style: normal;
+//   font-weight: 400;
+//   src: local('Open Sans'), local('OpenSans'), url(//themes.googleusercontent.com/static/fonts/opensans/v8/cJZKeOuBrn4kERxqtaUH3bO3LdcAZYWl9Si6vvxL-qU.woff) format('woff');
+// }
+// @font-face {
+//   font-family: 'Open Sans';
+//   font-style: normal;
+//   font-weight: 700;
+//   src: local('Open Sans Bold'), local('OpenSans-Bold'), url(//themes.googleusercontent.com/static/fonts/opensans/v8/k3k702ZOKiLJc3WVjuplzKRDOzjiPcYnFooOUGCOsRk.woff) format('woff');
+// }
+
+
 @font-face {
-  font-family: 'Open Sans';
+  font-family: 'Montserrat';
   font-style: normal;
   font-weight: 300;
-  src: local('Open Sans Light'), local('OpenSans-Light'), url(//themes.googleusercontent.com/static/fonts/opensans/v8/DXI1ORHCpsQm3Vp6mXoaTaRDOzjiPcYnFooOUGCOsRk.woff) format('woff');
+  src: local('Montserrat Light'), local('Montserrat-Light'), url(//fonts/Montserrat/Montserrat-Light.ttf), format('truetype');
 }
 @font-face {
-  font-family: 'Open Sans';
+  font-family: 'Montserrat';
   font-style: normal;
   font-weight: 400;
-  src: local('Open Sans'), local('OpenSans'), url(//themes.googleusercontent.com/static/fonts/opensans/v8/cJZKeOuBrn4kERxqtaUH3bO3LdcAZYWl9Si6vvxL-qU.woff) format('woff');
+  src: local('fonts/Montserrat/Montserrat-Regular.ttf'), local('Montserrat-Regular'), url(https://fonts.googleapis.com/css?family=Montserrat), format('truetype');
 }
 @font-face {
-  font-family: 'Open Sans';
+  font-family: 'Montserrat';
   font-style: normal;
   font-weight: 700;
-  src: local('Open Sans Bold'), local('OpenSans-Bold'), url(//themes.googleusercontent.com/static/fonts/opensans/v8/k3k702ZOKiLJc3WVjuplzKRDOzjiPcYnFooOUGCOsRk.woff) format('woff');
+  src: local('fonts/Montserrat/Montserrat-Bold.ttf'), local('Montserrat-Bold'), url(https://fonts.googleapis.com/css?family=Montserrat), format('truetype');
 }

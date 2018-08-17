@@ -1,13 +1,14 @@
 ---
 ---
 
-![Alt D Magazine]({{ site.github.url }}/assets/img/work/proj-7/img1.jpg)
-Alt D (Alternative Design) is a design magazine that features eclectic and unconventinal ideas from all faucets of the design industry. If it’s out-there, alt D has got it. Mainstream magazines can be often be generic feel to them, while more specialized magazines are often not approachable for the average person. I wanted to create something that stood out on the stand, however was still consumable by the general public. Alt D is all about encouraging the public to engage in design, and open their minds to the amazing impact it is having on the world today, and where it may take us in the future.
+![Schwifty Car]({{ site.github.url }}/assets/img/work/proj-4/img1.jpg)
+![Schwifty Car]({{ site.github.url }}/assets/img/work/proj-4/img2.jpg)
+![Schwifty Car]({{ site.github.url }}/assets/img/work/proj-4/img3.jpg)
+![Schwifty Car]({{ site.github.url }}/assets/img/work/proj-4/img4.jpg)
+![Schwifty Car]({{ site.github.url }}/assets/img/work/proj-4/img5.jpg)
+![Schwifty Car]({{ site.github.url }}/assets/img/work/proj-4/img6.jpg)
+![Schwifty Car]({{ site.github.url }}/assets/img/work/proj-4/img7.jpg)
+![Schwifty Car]({{ site.github.url }}/assets/img/work/proj-4/img8.jpg)
+![Schwifty Car]({{ site.github.url }}/assets/img/work/proj-4/img9.jpg)
 
-![Alt D Magazine]({{ site.github.url }}/assets/img/work/proj-7/img2.jpg)
-![Alt D Magazine]({{ site.github.url }}/assets/img/work/proj-7/img3.jpg)
-![Alt D Magazine]({{ site.github.url }}/assets/img/work/proj-7/img4.jpg)
-![Alt D Magazine]({{ site.github.url }}/assets/img/work/proj-7/img5.jpg)
-![Alt D Magazine]({{ site.github.url }}/assets/img/work/proj-7/img6.jpg)
-![Alt D Magazine]({{ site.github.url }}/assets/img/work/proj-7/img7.jpg)
-![Alt D Magazine]({{ site.github.url }}/assets/img/work/proj-7/img8.jpg)
+Computer programming is becoming an essential skill to know in today’s technology driven environment. This means that it is important to start education in code early on so that kids are ready to meet employers needs when they enter the workforce. Schwifty Car is a self-driving RC car that is designed to teach kids how to code. Schwifty Car reacts to elements and people in it’s environment, all of which is controlled by code. It provides kids with an introduction into the world of code and robotics through a fun and hands-on experience.

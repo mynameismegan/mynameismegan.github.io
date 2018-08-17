@@ -41,6 +41,10 @@ function workBelt() {
     $('.work-container').hide(800);
   });
 
+  $('.work-return-bottom').click(function() {
+    $('.work-belt').removeClass("slided");
+    $('.work-container').hide(800);
+  });
 }
 
 

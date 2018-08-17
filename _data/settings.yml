@@ -39,11 +39,11 @@ seo:
 # NOTE: The avatar is defined in the all.sass document.
 
 blurb: >
-  **Melissa** is an enthusiastic and highly creative individual with over 3 years
-  of marketing experience across a variety of disciplines. I moved from Canada to
-   San Francisco in order to pursue career in Graphic Design. I believe my business
-   background combined with my creative education has provided me with a unique set
-  of skills that I am eager to apply in the design industry.
+  **Melissa is an ethusiastic and highly creative individual**  with over 3 years
+  of marketing experience across a variety of disciplines. She left her hometown in
+   Canada and moved to San Francisco in order to pursue a career in Graphic Design. Her
+    business background and creative education has provided her with a unique set
+  of skills and experiences that she is now eager to apply in the design industry.
 
 
 skills:
@@ -60,13 +60,13 @@ skills:
 # Work Section
 
 projects:
-- {name: Mrs. Fields & Bansky Mashup, folder: 'proj-1', file: 'work/proj-1.html'}
-- {name: Rosy Reveal, folder: 'proj-2', file: 'work/proj-2.html'}
+- {name: Rosy Reveal, folder: 'proj-1', file: 'work/proj-1.html'}
+- {name: Mrs. Fields & Bansky Mashup, folder: 'proj-2', file: 'work/proj-2.html'}
 - {name: CannaBliss Chocolate, folder: 'proj-3', file: 'work/proj-3.html'}
-- {name: Schwifty Car, folder: 'proj-4', file: 'work/proj-4.html'}
+- {name: Alt | D Magazine, folder: 'proj-4', file: 'work/proj-4.html'}
 - {name: Fight Club Refresh, folder: 'proj-5', file: 'work/proj-5.html'}
 - {name: Bottlerock Festival, folder: 'proj-6', file: 'work/proj-6.html'}
-- {name: Alt | D Magazine, folder: 'proj-7', file: 'work/proj-7.html'}
+- {name: Schwifty Car, folder: 'proj-7', file: 'work/proj-7.html'}
 - {name: Polisi Snowboarding Co., folder: 'proj-8', file: 'work/proj-8.html'}
 
 
@@ -79,10 +79,10 @@ clients:
 - {avatar: 'face-marcink.jpg',
   name: 'Mykolas Marcinkevicius',
   title: 'Founder, Mico Angelo Co.',
-  quote: '<p><strong>Melissa is a very talented designer</strong>
+  quote: '<p><strong>Melissa is a very talented designer.</strong>
           I am genuinely impressed at the world-class design she produced
           for our company. Her professional and collaborative style ensures
-           that that everyone is on the same page throughout the entire process.
+           that everyone is on the same page throughout the entire process.
            Whatever it is, she has it. Not to mention, she’s upbeat, helpful, and creative.
             I have worked with several designers who were good, but I would work with Melissa again over them in a heartbeat.
          </p>',

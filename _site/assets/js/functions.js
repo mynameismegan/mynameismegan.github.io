@@ -1,10 +1,7 @@
-var current_proj = null;
-
 $(function() {
 	smoothScroll(300);
 	workBelt();
 	workLoad();
-	workNext();
 	clientStuff();
 
 	$("header h1").fitText(1, { minFontSize: '20px', maxFontSize: '72px' });
@@ -35,7 +32,6 @@ function workBelt() {
   $(".return").remove();
 
   $('.thumb-container label').click(function() {
-
     $('.work-belt').addClass("slided");
     $('.work-container').show();
   });
@@ -45,22 +41,12 @@ function workBelt() {
     $('.work-container').hide(800);
   });
 
-	workNext();
-	//when next is clicked call workNext()
+  $('.work-return-bottom').click(function() {
+    $('.work-belt').removeClass("slided");
+    $('.work-container').hide(800);
+  });
 }
 
-function workNext() {
-	console.log(current_proj);
-
-	// for (var i = 0; i < 8; i++){
-		// project = $('.thumb-container label')[i]
-			// if current_proj.title == project.title{
-				// change the current proj to i + 1 proj
-			// }
-	// };
-
-
-}
 
 function  workLoad() {
 
@@ -74,7 +60,6 @@ function  workLoad() {
 
     $('.project-load').html(spinner).load(url);
     $('.project-title').text(newTitle);
-		current_proj = $this;
   });
 
 }
