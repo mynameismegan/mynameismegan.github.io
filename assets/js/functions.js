@@ -42,6 +42,9 @@ function workBelt() {
   });
 
   $('.work-return-bottom').click(function() {
+	var wrk = document.getElementById("work");
+	var domRect = wrk.getBoundingClientRect();
+	window.scrollBy(0, domRect.y);
     $('.work-belt').removeClass("slided");
     $('.work-container').hide(800);
   });
@@ -50,7 +53,7 @@ function workBelt() {
 
 function  workLoad() {
 
-  $.ajaxSetup({ cache: true });
+  $.ajaxSetup({ cache: false });
 
   $('.thumb-container label').click(function() {
     var $this = $(this),
