@@ -1,6 +1,6 @@
 /*! normalize.css v3.0.1 | MIT License | git.io/normalize */
 html {
-  font-family: montserrat;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%; }
 
@@ -144,20 +144,20 @@ td, th {
   padding: 0; }
 
 @font-face {
-  font-family: 'Montserrat';
+  font-family: 'Open Sans';
   font-style: normal;
   font-weight: 300;
-  src: local("Montserrat Light"), local("Montserrat-Light"), url(//fonts/Montserrat/Montserrat-Light.ttf), format("truetype"); }
+  src: local("Open Sans Light"), local("OpenSans-Light"), url(//themes.googleusercontent.com/static/fonts/opensans/v8/DXI1ORHCpsQm3Vp6mXoaTaRDOzjiPcYnFooOUGCOsRk.woff) format("woff"); }
 @font-face {
-  font-family: 'Montserrat';
+  font-family: 'Open Sans';
   font-style: normal;
   font-weight: 400;
-  src: local("fonts/Montserrat/Montserrat-Regular.ttf"), local("Montserrat-Regular"), url(https://fonts.googleapis.com/css?family=Montserrat), format("truetype"); }
+  src: local("Open Sans"), local("OpenSans"), url(//themes.googleusercontent.com/static/fonts/opensans/v8/cJZKeOuBrn4kERxqtaUH3bO3LdcAZYWl9Si6vvxL-qU.woff) format("woff"); }
 @font-face {
-  font-family: 'Montserrat';
+  font-family: 'Open Sans';
   font-style: normal;
   font-weight: 700;
-  src: local("fonts/Montserrat/Montserrat-Bold.ttf"), local("Montserrat-Bold"), url(https://fonts.googleapis.com/css?family=Montserrat), format("truetype"); }
+  src: local("Open Sans Bold"), local("OpenSans-Bold"), url(//themes.googleusercontent.com/static/fonts/opensans/v8/k3k702ZOKiLJc3WVjuplzKRDOzjiPcYnFooOUGCOsRk.woff) format("woff"); }
 /* 
   Animation: bounceOut
   Source: Bounce.Js */
@@ -570,7 +570,7 @@ body {
   background: #fff;
   font-size: 15px;
   line-height: 1.6;
-  font-family: "Montserrat", sans-serif;
+  font-family: "Open Sans", sans-serif;
   color: #666;
   -webkit-font-smoothing: antialiased;
   -webkit-text-size-adjust: 100%; }
@@ -808,7 +808,7 @@ footer {
   max-width: 580px;
   padding: 0 20px;
   margin: 50px auto;
-  font-size: 19px;
+  font-size: 20px;
   text-align: center;
   font-weight: 350;
   line-height: 34px; }
@@ -967,8 +967,8 @@ footer {
         display: block;
         padding: 0 9%;
         color: white;
-        font-weight: 400;
-        font-size: 24px;
+        font-weight: 300;
+        font-size: 26px;
         text-transform: uppercase;
         line-height: 1.2; }
     .thumb-container label:hover {
@@ -1060,7 +1060,7 @@ footer {
     .clients-belt .client-unit .client-content {
       font-size: 19px;
       line-height: 36px;
-      font-weight: 400;
+      font-weight: 350;
       margin-top: -10px;
       position: relative; }
 
