@@ -39,11 +39,12 @@ seo:
 # NOTE: The avatar is defined in the all.sass document.
 
 blurb: >
-  **Melissa is an ethusiastic and highly creative individual**  with over 3 years
-  of marketing experience across a variety of disciplines. She left her hometown in
-   Canada and moved to San Francisco in order to pursue a career in Graphic Design. Her
-    business background and creative education has provided her with a unique set
-  of skills and experiences that she is now eager to apply in the design industry.
+  **Welcome! My name is Melissa.** <br>
+  I am an ethusiastic and highly creative individual with over 3 years
+  of marketing experience across a variety of disciplines. Most recently, I left my hometown in
+   Canada and moved to San Francisco in order to pursue a career in Graphic Design. My
+    business background and creative education has allowed me to garner a unique set
+  of skills and experiences that I am now eager to apply in the design industry.
 
 
 skills:
@@ -61,10 +62,10 @@ skills:
 
 projects:
 - {name: Rosy Reveal, folder: 'proj-1', file: 'work/proj-1.html'}
-- {name: Mrs. Fields & Bansky Mashup, folder: 'proj-2', file: 'work/proj-2.html'}
+- {name: Pot Sitter App, folder: 'proj-2', file: 'work/proj-2.html'}
 - {name: CannaBliss Chocolate, folder: 'proj-3', file: 'work/proj-3.html'}
 - {name: Alt | D Magazine, folder: 'proj-4', file: 'work/proj-4.html'}
-- {name: Fight Club Refresh, folder: 'proj-5', file: 'work/proj-5.html'}
+- {name: Mrs. Fields Brand Revamp, folder: 'proj-5', file: 'work/proj-5.html'}
 - {name: Bottlerock Festival, folder: 'proj-6', file: 'work/proj-6.html'}
 - {name: Schwifty Car, folder: 'proj-7', file: 'work/proj-7.html'}
 - {name: Polisi Snowboarding Co., folder: 'proj-8', file: 'work/proj-8.html'}

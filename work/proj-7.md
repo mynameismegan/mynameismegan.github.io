@@ -6,7 +6,6 @@
 ![Schwifty Car]({{ site.github.url }}/assets/img/work/proj-7/img3.jpg)
 ![Schwifty Car]({{ site.github.url }}/assets/img/work/proj-7/img4.jpg)
 ![Schwifty Car]({{ site.github.url }}/assets/img/work/proj-7/img5.jpg)
-![Schwifty Car]({{ site.github.url }}/assets/img/work/proj-7/img6.jpg)
 ![Schwifty Car]({{ site.github.url }}/assets/img/work/proj-7/img7.jpg)
 ![Schwifty Car]({{ site.github.url }}/assets/img/work/proj-7/img8.jpg)
 ![Schwifty Car]({{ site.github.url }}/assets/img/work/proj-7/img9.jpg)
