@@ -805,11 +805,11 @@ footer {
     .face-lockup [class^="icon-"] {
       margin: 10px 9%; } }
 .blurb {
-  max-width: 580px;
+  max-width: 550px;
   padding: 0 20px;
   margin: 50px auto;
-  font-size: 20px;
-  text-align: center;
+  font-size: 19px;
+  text-align: justify;
   font-weight: 350;
   line-height: 34px; }
 

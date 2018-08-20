@@ -6,7 +6,6 @@
 ![Pot Sitter App](/assets/img/work/proj-2/img3.jpg)
 ![Pot Sitter App](/assets/img/work/proj-2/img4.jpg)
 ![Pot Sitter App](/assets/img/work/proj-2/img5.jpg)
-![Pot Sitter App](/assets/img/work/proj-2/img6.jpg)
 
 Pot Sitter is an app I designed specially for people that are experiencing paranoid and/or
 anxious feelings after consuming cannabis. A common issue among cannabis users is
