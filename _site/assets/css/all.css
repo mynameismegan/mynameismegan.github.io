@@ -1098,9 +1098,11 @@ footer {
     cursor: pointer;
     margin: 0 20px 20px;
     padding-bottom: 20px;
+    border-bottom: 4px solid transparent;
     opacity: 0.5; }
     .clients-logos .client-logo.active-client {
-      opacity: 1; }
+      opacity: 1;
+      border-bottom: 4px solid #66c8c5; }
 
 .client-quote-mark {
   position: absolute;
@@ -1112,6 +1114,29 @@ footer {
   opacity: 0.3; }
   .client-quote-mark path {
     fill: #66c8c5; }
+
+.client-controls {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  left: 0px;
+  z-index: 2; }
+  .client-controls div {
+    height: 40px;
+    width: 40px;
+    margin-top: -20px;
+    cursor: pointer; }
+    .client-controls div path {
+      fill: #66c8c5; }
+  .client-controls .client-control-next {
+    position: absolute;
+    top: 50%;
+    right: 10px; }
+  .client-controls .client-control-prev {
+    position: absolute;
+    top: 50%;
+    left: 10px; }
 
 .clients-mobile-nav {
   text-align: center;
@@ -1160,6 +1185,9 @@ footer {
 
   .clients-mobile-nav {
     display: block; } }
+@media (max-width: 600px) {
+  .client-controls {
+    display: none; } }
 .section-contact {
   text-align: center; }
 

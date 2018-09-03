@@ -61,12 +61,12 @@
     cursor: pointer
     margin: 0 20px 20px
     padding-bottom: 20px
-    // border-bottom: 4px solid transparent
+    border-bottom: 4px solid transparent
     opacity: 0.5
 
     &.active-client
       opacity: 1
-      // border-bottom: 4px solid $accent
+      border-bottom: 4px solid $accent
 
 
 .client-quote-mark
@@ -81,25 +81,25 @@
 
 
 // Controls
-// .client-controls
-//   +position(absolute, 0px 0px 0px 0px)
-//   z-index: 2
+.client-controls
+  +position(absolute, 0px 0px 0px 0px)
+  z-index: 2
 
-//   > div
-//     +size(40px)
-//     margin-top: -20px
-//     cursor: pointer
+  div
+    +size(40px)
+    margin-top: -20px
+    cursor: pointer
 
-//     path
-//       fill: $accent
+    path
+      fill: $accent
 
-//   .client-control-next
-//     +position(absolute, 50% 10px null null)
+  .client-control-next
+    +position(absolute, 50% 10px null null)
 
-//   .client-control-prev
-//     +position(absolute, 50% null null 10px)
+  .client-control-prev
+    +position(absolute, 50% null null 10px)
 
-// clients-mobile-nav
+clients-mobile-nav
 .clients-mobile-nav
   text-align: center
   position: relative
@@ -151,6 +151,6 @@
     display: block
 
 
-// @media (max-width: 600px)
-//   .client-controls
-//     display: none
+@media (max-width: 600px)
+  .client-controls
+    display: none

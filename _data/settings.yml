@@ -88,6 +88,15 @@ clients:
          </p>',
   logo: 'mico-logo.png'}
 
+- {avatar: 'judy-portrait.jpg',
+  name: 'Judy Doherty',
+  title: 'Founder, Expression Food',
+  quote: '<p><strong>Melissa is very easy to work with and I highly recommend her.</strong>
+          She gave me a great package that fit my budget and exceeded all expectations with her beautiful and modern designs.
+          I will definitely use her services again.
+         </p>',
+  logo: 'expression-food-logo.png'}
+
 
 
 #-------------------------------
