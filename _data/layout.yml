@@ -6,6 +6,7 @@ animation: "bounceOut"
 
 logo: "logo.svg"
 hero: "hero-bg.jpg"
+back: "about-bg.svg" #about background image (line art).
 avatar: "face.jpg"
 
 # Colors
