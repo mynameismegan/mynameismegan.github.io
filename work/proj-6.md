@@ -1,15 +1,11 @@
 ---
 ---
 
-![Bottlerock Festival]({{ site.github.url }}/assets/img/work/proj-6/img1.jpg)
-![Bottlerock Festival]({{ site.github.url }}/assets/img/work/proj-6/img2.jpg)
-![Bottlerock Festival]({{ site.github.url }}/assets/img/work/proj-6/img3.jpg)
-![Bottlerock Festival]({{ site.github.url }}/assets/img/work/proj-6/img4.jpg)
-![Bottlerock Festival]({{ site.github.url }}/assets/img/work/proj-6/img5.jpg)
-![Bottlerock Festival]({{ site.github.url }}/assets/img/work/proj-6/img6.jpg)
-![Bottlerock Festival]({{ site.github.url }}/assets/img/work/proj-6/img7.jpg)
-![Bottlerock Festival]({{ site.github.url }}/assets/img/work/proj-6/img8.jpg)
-![Bottlerock Festival]({{ site.github.url }}/assets/img/work/proj-6/img9.jpg)
-![Bottlerock Festival]({{ site.github.url }}/assets/img/work/proj-6/img10.jpg)
+![Rosy Reveal]({{ site.github.url }}/assets/img/work/proj-6/img1.jpg)
+![Rosy Reveal]({{ site.github.url }}/assets/img/work/proj-6/img2.jpg)
+![Rosy Reveal]({{ site.github.url }}/assets/img/work/proj-6/img3.jpg)
+![Rosy Reveal]({{ site.github.url }}/assets/img/work/proj-6/img4.jpg)
+![Rosy Reveal]({{ site.github.url }}/assets/img/work/proj-6/img5.jpg)
+![Rosy Reveal]({{ site.github.url }}/assets/img/work/proj-6/img6.jpg)
 
-BottleRock Napa Valley is an annual wine and rock music festival held in Napa, California that attracts over 120,000 attendees each year. Traditionally, BottleRock promotional materials are highly illustrative with intricate graphics done in a hand-drawn style. I created a brochure for festival attendees that leaned on a modern and clean style, but still captured the vibe of a rock festival. Additionally, I created an app for the festival with this same objective.
+Rosy Reveal is a cosmetic microneedling kit that involves using fine needles to create hundreds of tiny invisible puncture wounds in the top layer of skin. The micro-injuries you create stimulates the body’s natural wound healing processes, resulting in cell turnover and increased collagen and elastin production, therefore reversing as well as preventing signs of aging. It is fast becoming a popular treatment among skincare fanatics due to the fact that it is extremely inexpensive and can be performed at home. I was approached by the creator of Rosy Reveal, Mico Angelo Co., as they were looking for a fresh redesign of their brand. This included the Mico Angelo logo, the Rosy Reveal logo, the package design, and an informational pamphlet for the inside of the box. 

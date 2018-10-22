@@ -60,12 +60,12 @@ skills:
 # Work Section
 
 projects:
-- {name: Rosy Reveal, folder: 'proj-1', file: 'work/proj-1.html'}
+- {name: Perceptron, folder: 'proj-1', file: 'work/proj-1.html'}
 - {name: Pot Sitter App, folder: 'proj-2', file: 'work/proj-2.html'}
 - {name: CannaBliss Chocolate, folder: 'proj-3', file: 'work/proj-3.html'}
 - {name: Alt | D Magazine, folder: 'proj-4', file: 'work/proj-4.html'}
 - {name: Mrs. Fields Brand Revamp, folder: 'proj-5', file: 'work/proj-5.html'}
-- {name: Bottlerock Festival, folder: 'proj-6', file: 'work/proj-6.html'}
+- {name: Rosy Reveal, folder: 'proj-6', file: 'work/proj-6.html'}
 - {name: Schwifty Car, folder: 'proj-7', file: 'work/proj-7.html'}
 - {name: Polisi Snowboarding Co., folder: 'proj-8', file: 'work/proj-8.html'}
 
