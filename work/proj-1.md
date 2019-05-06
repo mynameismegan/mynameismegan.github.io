@@ -1,11 +1,15 @@
 ---
 ---
 
-![Perceptron]({{ site.github.url }}/assets/img/work/proj-1/img1.jpg)
-![Perceptron]({{ site.github.url }}/assets/img/work/proj-1/img2.jpg)
-![Perceptron]({{ site.github.url }}/assets/img/work/proj-1/img3.jpg)
-![Perceptron]({{ site.github.url }}/assets/img/work/proj-1/img4.jpg)
-![Perceptron]({{ site.github.url }}/assets/img/work/proj-1/img5.jpg)
+![Wilderness Patrol]({{ site.github.url }}/assets/img/work/proj-1/img1.jpg)
+![Wilderness Patrol]({{ site.github.url }}/assets/img/work/proj-1/img2.jpg)
+Wilderness Patrol is an app developed in 2019 by students at 42 Silicon Valley to aid the volunteers in Califronia's State Parks in maintaining the integrity of the parks. 
 
-Perceptron is a new-age pixel typeface. It was especially designed for users who want to emote a high-tech
-and contemporary feel to its audience. It has a similar construction of the classic bitmap typeface, but with some added flourishes that make it stand out from the pack. The typical hard corners and points of the pixels have been rounded, to give a modern aesthetic and allow for greater versatility of use. Perceptron is begging to be the logotype for the next big software startup, makerspace, or computer game. 
+A volunteer will come across an issue, and drop a pin onto a digital map (shown below) to report the issue. This is automatically logged in the Issues List, which allows fellow volunteers to coordinate to resolve it.
+
+![Wilderness Patrol]({{ site.github.url }}/assets/img/work/proj-1/img3.jpg)
+The Wilderness Patrol app is designed to allow users to navigate through the app as easily as possible without feeling lost. 
+This was accomplished by reusing the same screens as often as possible, and ensuring that the user never had to navigate more than a depth of three clicks away from the main screen, as shown below.
+
+![Wilderness Patrol]({{ site.github.url }}/assets/img/work/proj-1/img4.jpg)
+Check out the full app [here](https://invis.io/A5RU22L94QH).

@@ -1,11 +1,19 @@
 ---
 ---
 
-![CannaBliss Chocolate]({{ site.github.url }}/assets/img/work/proj-3/img1.jpg)
-![CannaBliss Chocolate]({{ site.github.url }}/assets/img/work/proj-3/img2.jpg)
-![CannaBliss Chocolate]({{ site.github.url }}/assets/img/work/proj-3/img3.jpg)
-![CannaBliss Chocolate]({{ site.github.url }}/assets/img/work/proj-3/img4.jpg)
-![CannaBliss Chocolate]({{ site.github.url }}/assets/img/work/proj-3/img5.jpg)
-![CannaBliss Chocolate]({{ site.github.url }}/assets/img/work/proj-3/img6.jpg)
+![Pot Sitter App](/assets/img/work/proj-3/img1.jpg)
+![Pot Sitter App](/assets/img/work/proj-3/img2.jpg)
+![Pot Sitter App](/assets/img/work/proj-3/img3.jpg)
+![Pot Sitter App](/assets/img/work/proj-3/img4.jpg)
+![Pot Sitter App](/assets/img/work/proj-3/img5.jpg)
 
-CANNABliss Chocolate is a line of cannabis-infused edibles that is specifically designed for the new-to-cannabis customer. In the past, cannabis brands have marketed towards a younger audience, with package design typically relying on psychedelic color palettes and mascot logos to appeal to customers. With the recent legalization of marijuana, I sought to create a brand that would appeal to a more mature customer base. More specifically, first-time cannabis users that are curious to enter the market and are looking for a high-quality and trustworthy product.
+
+[Invision App Presentation](https://invis.io/MWP12NQUTHE)
+
+Pot Sitter is an app designed specifically for people that are experiencing paranoid or
+anxious feelings after consuming cannabis. A common issue among cannabis users is
+erroneously ingesting an excessive amount, either by inexperience or due to an inconsistent product, 
+and becoming "too high". While it is not possible to overdose on marijuana, people who intake too much may enter
+into a panicked and paranoid state, and resultantly call 911 or even admit themselves to the hospital. <br>
+
+With the recent legalization of marijuana, this has proven to be a problem for hospitals and poison control hotlines who are receiving an increasing number of cannabis-related incidents, these incidents end up taking hospital resources away from people who really require medical care. There is no treatment for someone who has consumed an excessive amount of cannabis except to wait until the effects wear off over time, so the intention of Pot Sitter is to take users through a variety of screens designed to help relax the user until the effects of the cannabis wear off naturally. These screens include an emotional self-assessment, heart rate check, meditation, and the ability to chat with other users in the community.
